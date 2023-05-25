@@ -6,4 +6,5 @@ class Node {
 public:
 	int noMhs;
 	string name;
+	Node* next;
 };
